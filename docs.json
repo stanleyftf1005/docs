@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Newton AI Tutorial",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#f5f5f5",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -76,13 +76,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:stan@newtonlabs.io"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "App",
+      "href": "https://app.newtonlabs.io"
     }
   },
   "footer": {
